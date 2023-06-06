@@ -1,0 +1,24 @@
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+body {
+    background-color: white;
+}
+
+.nav-item.nav-link {
+    text-decoration-color: black;
+}
+
+.hero {
+    background-color: #9BABB8;
+}
+
+.products {
+    background-color: #9BABB8;
+}
+
+.contact-us {
+    background-color: #F8F9FA;
+}
